@@ -1,0 +1,100 @@
+{
+  "categories": [
+    {
+      "nom": "veste homme",
+      "subcategory": [
+        "longue ",
+        "court",
+        "petit"
+      ]
+    },
+    {
+      "nom": "chaussure soulier",
+      "subCategory": [
+        "mocassin",
+        "cuire",
+        "simple"
+      ]
+    },
+    {
+      "nom": "chemise homme",
+      "subCategory": [
+        "careler",
+        "simple",
+        "manche longue"
+      ]
+    },
+    {
+      "nom": "pantalon djean",
+      "subCategory": [
+        "court",
+        "djean blessé",
+        "bade"
+      ]
+    },
+    {
+      "nom": "veste femme",
+      "subCategory": [
+        "veste pantalon",
+        "veste jupe",
+        "veste mini-jupe"
+      ]
+    },
+    {
+      "nom": "chaussure basket",
+      "subCategory": [
+        "class",
+        "simple",
+        "montante"
+      ]
+    },
+    {
+      "nom": "culotte",
+      "subCategory": [
+        "court",
+        "genou",
+        "sexy"
+      ]
+    },
+    {
+      "nom": "chemise femme",
+      "subCategory": [
+        "manche court",
+        "simple",
+        "careler"
+      ]
+    },
+    {
+      "nom": "veste enfant",
+      "subCategory": [
+        "Longue",
+        "court",
+        "ensemble"
+      ]
+    },
+    {
+      "nom": "cravate",
+      "subCategory": [
+        "Longue",
+        "court",
+        "model"
+      ]
+    },
+    {
+      "nom": "pantalon tissu",
+      "subCategory": [
+        "longue",
+        "panta court",
+        "slimer"
+      ]
+    },
+    {
+      "nom": "noeud",
+      "subCategory": [
+        "noeud papillons",
+        "noeud simple",
+        "ensemble"
+      ]
+    }
+  ]
+}

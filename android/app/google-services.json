@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1094357763022",
+    "project_id": "maboutique-4d18d",
+    "storage_bucket": "maboutique-4d18d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094357763022:android:00f5a45383c791da27e19f",
+        "android_client_info": {
+          "package_name": "com.example.boutique_commercant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094357763022-7srhvvlef0l62tjjhems9u9a3n1il0s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGyp7qtgXAGbYjii4BfIFwmCdE1GgLDvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094357763022-7srhvvlef0l62tjjhems9u9a3n1il0s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094357763022:android:3e478390aee83d1c27e19f",
+        "android_client_info": {
+          "package_name": "com.example.boutiqueapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094357763022-7srhvvlef0l62tjjhems9u9a3n1il0s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGyp7qtgXAGbYjii4BfIFwmCdE1GgLDvc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094357763022-7srhvvlef0l62tjjhems9u9a3n1il0s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
